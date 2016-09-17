@@ -25,9 +25,9 @@ while(1):
     if a>300:
          print('Motion in 1st block')
     if b>300:
-         print('Motion in 2st block')
+         print('Motion in 2nd block')
     if c>300:
-         print('Motion in 3st block')
+         print('Motion in 3rd block')
 
     #channel = frame-fgmask
     #cv2.imshow('frame',channel)
